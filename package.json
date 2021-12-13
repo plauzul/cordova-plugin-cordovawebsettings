@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-cordovawebsettings",
+  "version": "1.0.0",
+  "description": "",
+  "cordova": {
+    "id": "cordova-plugin-cordovawebsettings",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "SystemWebView",
+    "WebSettings"
+  ],
+  "author": "Paulo Henrique",
+  "license": "ISC"
+}
